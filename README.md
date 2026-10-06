@@ -6,6 +6,9 @@ This project is a **To-Do List web application** created using HTML, CSS, and Ja
 
 The application uses **localStorage** to save tasks in the browser, so the tasks remain available even after refreshing or reopening the page.
 
+## Github repo link
+https://github.com/shagasharonraj/to-do-list.git
+
 ##  Features
 
 * Add new tasks
